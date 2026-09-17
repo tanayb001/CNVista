@@ -10,4 +10,4 @@ It provides genome-wide coordinate mapping and classification of copy-number sta
 
 The tool also supports visualization of allele-specific information, loss-of-heterozygosity annotations, and sex-chromosome dosage.
 
-The repository will be updated with the implementation and documentation as the software is prepared for formal release.
+The repository will be updated with the tool implementation and documentation as the software is prepared for formal release.
